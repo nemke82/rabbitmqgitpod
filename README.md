@@ -11,3 +11,7 @@ How-to instructions: <BR>
 Gitpod will now launch a workspace container for you in the cloud, containing a full Linux system. It will also clone the GitHub repository branch based on the GitHub page you were coming from. <BR>
 
 More info: https://www.gitpod.io/docs/10_getting_started/ <BR>
+<BR>
+<BR>
+  default username/password:
+  guest/guest
